@@ -60,15 +60,15 @@ My research interests lie in machine learning and computer vision, especially in
     </li>
     <li class="news-item">
       <div class="news-date">Dec 2024</div>
-      <div class="news-content"><a href="https://arxiv.org/abs/2412.09959">DDPS</a> is released. </div>
+      <div class="news-content">The paper of <a href="https://arxiv.org/abs/2412.09959">DDPS</a> is released. </div>
     </li>
     <li class="news-item">
       <div class="news-date">Dec 2024</div>
-      <div class="news-content"><a href="https://arxiv.org/abs/2412.09945">CMIDD</a> is released. </div>
+      <div class="news-content">The paper of <a href="https://arxiv.org/abs/2412.09945">CMIDD</a> is released. </div>
     </li>
     <li class="news-item">
       <div class="news-date">Jun 2024</div>
-      <div class="news-content"><a href="https://arxiv.org/abs/2406.05704">H-PD</a> is released. </div>
+      <div class="news-content">The paper of <a href="https://arxiv.org/abs/2406.05704">H-PD</a> is released. </div>
     </li>
     <!-- <li class="news-item">
       <div class="news-date">Dec 2023</div>
