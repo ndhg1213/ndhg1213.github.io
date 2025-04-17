@@ -96,6 +96,27 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 # 📝 Publications
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
+
+**<u>Chenyang Zhu</u>**, Kai Li $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
+
+*In The AAAI Conference on Artificial Intelligence (AAAI), 2025*
+<!-- [[**Project Page**](https://multibooth.github.io/)] -->
+<!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
+<!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
+
+<a href='https://arxiv.org/abs/2404.14239'><img src='https://img.shields.io/badge/ArXiv-2404.14239-red'></a>
+<a href='https://multibooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth)
+
+A novel and efficient technique for multi-concept customization in image generation from text.
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\DDPS-title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -118,39 +139,6 @@ A novel framework orthogonal to existing diffusion-based dataset distillation me
 
 </div>
 </div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
-
-**<u>Chenyang Zhu</u>**, Kai Li $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
-
-*In The AAAI Conference on Artificial Intelligence (AAAI), 2025*
-<!-- [[**Project Page**](https://multibooth.github.io/)] -->
-<!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
-<!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
-
-<a href='https://arxiv.org/abs/2404.14239'><img src='https://img.shields.io/badge/ArXiv-2404.14239-red'></a>
-<a href='https://multibooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth)
-
-A novel and efficient technique for multi-concept customization in image generation from text.
-
-</div>
-</div>
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<!-- [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
-</div>
-</div>  -->
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMTEL 2022</div><img src='images/ICMTEL2022_DFMH.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
