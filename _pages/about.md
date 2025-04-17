@@ -101,20 +101,20 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 <font size=4 > <strong>Efficient Dataset Distillation via Diffusion-Driven Patch Selection for Improved Generalization</strong></font>
 
-**<u>Chenyang Zhu</u> $^{\*}$**, Kai Li $^{\*,\dagger}$, Yue Ma $^{\*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
+**<u>Xinhao Zhong</u>**, Shuoyang Sun, Xulin Gu, Zhaoyang Xu, Yaowei Wang, Min Zhang, Bin Chen $^{\dagger}$
 
-*In International Conference on Learning Representations (ICLR), 2025*
+<!-- *In International Conference on Learning Representations (ICLR), 2025* -->
 <!-- *arXiv preprint arXiv:2412.01197 (2024)* -->
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
 <!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
 
-<a href='https://arxiv.org/abs/2412.01197'><img src='https://img.shields.io/badge/ArXiv-2412.01197-red'></a>
-<a href='https://InstantSwap.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap)
+<a href='https://arxiv.org/abs/2412.09959'><img src='https://img.shields.io/badge/ArXiv-2412.01197-red'></a>
+<!-- <a href='https://InstantSwap.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> -->
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap) -->
 
 
-A novel training-free customized concept swapping framework, which enables efficient concept swapping across sharp shape differences.
+A novel framework orthogonal to existing diffusion-based dataset distillation methods, leveraging diffusion models for selection rather than generation.
 
 </div>
 </div>
@@ -182,10 +182,10 @@ Deep Factorized Multi-view Hashing for Image Retrieval
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
-<!-- # 💻 Internships
+# 💻 Internships
 
-- _2023.04 - 2024.8_, Professor Li Xiu’s [research group](https://thusigsclub.github.io/thu.github.io/index.html) at Tsinghua University, Shen Zhen, China. -->
+- _2024.07 - Now, Professor Bin Chen’s [research group](https://faculty.hitsz.edu.cn/BinChen) at Harbin Institute of Technology (Shenzhen).
 
 ---
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=368bdc&w=350&t=tt&d=Bet_ACSX3N0Q4N0Qg5FkZONno2ukkSvQt3F9rBotRSc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+<!-- <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=368bdc&w=350&t=tt&d=Bet_ACSX3N0Q4N0Qg5FkZONno2ukkSvQt3F9rBotRSc&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script> -->
