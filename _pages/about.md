@@ -103,7 +103,7 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 **<u>Xinhao Zhong</u>**, Shuoyang Sun, Xulin Gu, Zhaoyang Xu, Yaowei Wang, Min Zhang, Bin Chen $^{\dagger}$
 
-<!-- *In International Conference on Learning Representations (ICLR), 2025* -->
+*ArXiv preprint arXiv:2412.09959*
 <!-- *arXiv preprint arXiv:2412.01197 (2024)* -->
 <!-- [[**Project Page**](https://multibooth.github.io/)] -->
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
@@ -123,7 +123,7 @@ We propose a novel framework orthogonal to existing diffusion-based dataset dist
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\H_PD-title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=4 > <strong>Hierarchical features matter: A deep exploration of gan priors for improved dataset distillation</strong></font>
+<font size=4 > <strong>Hierarchical Features Matter: A Deep Exploration of Progressive Parameterization Method for Dataset Distillation</strong></font>
 
 **<u>Xinhao Zhong</u> $^{\*}$**, Hao Fang $^{\*}$, Bin Chen $^{\dagger}$, Xulin Gu, Meikang Qiu, Shuhan Qi, Shu-Tao Xia
 
