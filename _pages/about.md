@@ -96,27 +96,6 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\MultiBooth-Title-case.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<font size=4 > <strong>MultiBooth: Towards Generating All Your Concepts in an Image from Text</strong></font>
-
-**<u>Chenyang Zhu</u>**, Kai Li $^{\dagger}$, Yue Ma, Chunming He, Xiu Li $^{\dagger}$
-
-*In The AAAI Conference on Artificial Intelligence (AAAI), 2025*
-<!-- [[**Project Page**](https://multibooth.github.io/)] -->
-<!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
-<!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
-
-<a href='https://arxiv.org/abs/2404.14239'><img src='https://img.shields.io/badge/ArXiv-2404.14239-red'></a>
-<a href='https://multibooth.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
-![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth)
-
-A novel and efficient technique for multi-concept customization in image generation from text.
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\DDPS-title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -130,28 +109,59 @@ A novel and efficient technique for multi-concept customization in image generat
 <!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
 <!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
 
-<a href='https://arxiv.org/abs/2412.09959'><img src='https://img.shields.io/badge/ArXiv-2412.01197-red'></a>
+<a href='https://arxiv.org/abs/2412.09959'><img src='https://img.shields.io/badge/ArXiv-2412.09959-red'></a>
 <!-- <a href='https://InstantSwap.github.io/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> -->
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/InstantSwap) -->
 
 
-A novel framework orthogonal to existing diffusion-based dataset distillation methods, leveraging diffusion models for selection rather than generation.
+We propose a novel framework orthogonal to existing diffusion-based dataset distillation methods, leveraging diffusion models for selection rather than generation.
 
 </div>
 </div>
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICMTEL 2022</div><img src='images/ICMTEL2022_DFMH.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\H_PD-title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-Deep Factorized Multi-view Hashing for Image Retrieval
 
-**Chenyang Zhu** $^{\dagger}$ , Wenjue He $^{\dagger}$ , Zheng Zhang $^{*}$ , **ICMTEL 2022**
+<font size=4 > <strong>Hierarchical features matter: A deep exploration of gan priors for improved dataset distillation</strong></font>
 
-[[**Paper**](https://link.springer.com/chapter/10.1007/978-3-031-18123-8_49)]
-[[**Code**](https://github.com/chenyangzhu1/DFMH)]
+**<u>Xinhao Zhong</u> $^{\*}$**, Hao Fang $^{\*}$, Bin Chen $^{\dagger}$, Xulin Gu, Meikang Qiu, Shuhan Qi, Shu-Tao Xia
 
-- Combining deep semi non-negative matrix factorization and adaptive weight strategy, a novel algorithm called DFMH was proposed to solve the problem of multi-view image retrieval.
+*In The IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2025*
+<!-- [[**Project Page**](https://multibooth.github.io/)] -->
+<!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
+<!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
+
+<a href='https://arxiv.org/abs/2406.05704'><img src='https://img.shields.io/badge/ArXiv-2406.05704-red'></a>
+<a href='https://github.com/ndhg1213/H-PD'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth) -->
+
+we propose a novel parameterization method dubbed Hierarchical Parameterization Distillation (H-PD), to systematically explore hierarchical feature within provided feature space (e.g., layers within pre-trained generative adversarial networks).
+
 </div>
-</div> -->
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\CMIDD-title-case.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<font size=4 > <strong>Going Beyond Feature Similarity: Effective Dataset distillation based on Class-aware Conditional Mutual Information</strong></font>
+
+**<u>Xinhao Zhong</u>**, Bin Chen $^{\dagger}$, Hao Fang, Xulin Gu, Shu-Tao Xia, En-Hui Yang
+
+*In The International Conference on Learning Representations (ICLR), 2025*
+<!-- [[**Project Page**](https://multibooth.github.io/)] -->
+<!-- [[**Paper**](https://arxiv.org/abs/2404.14239)] -->
+<!-- [[**Code**](https://github.com/chenyangzhu1/MultiBooth)] -->
+
+<a href='https://arxiv.org/abs/2412.09945'><img src='https://img.shields.io/badge/ArXiv-2412.09945-red'></a>
+<a href='https://github.com/ndhg1213/CMIDD'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth) -->
+
+we introduce conditional mutual information (CMI) to assess the class-aware complexity of a dataset and propose a novel method by minimizing CMI. 
+
+</div>
+</div>
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
