@@ -50,13 +50,25 @@ My research interests lie in machine learning and computer vision, especially in
 <h1>🔥 News</h1>
 <div class="news-container">
   <ul>
-  <li class="news-item">
+    <li class="news-item">
       <div class="news-date">Feb 2025</div>
-      <div class="news-content"><a href="https://github.com/ndhg1213/H-PD">H-PD</a> is accepted by CVPR2025. </div>
+      <div class="news-content"><a href="https://arxiv.org/abs/2406.05704">H-PD</a> is accepted by CVPR2025. </div>
     </li>
     <li class="news-item">
       <div class="news-date">Jan 2025</div>
-      <div class="news-content"><a href="https://github.com/ndhg1213/CMIDD">CMIDD</a> is accepted by ICLR2025. </div>
+      <div class="news-content"><a href="https://arxiv.org/abs/2412.09945">CMIDD</a> is accepted by ICLR2025. </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Dec 2024</div>
+      <div class="news-content"><a href="https://arxiv.org/abs/2412.09959">DDPS</a> is released. </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Dec 2024</div>
+      <div class="news-content"><a href="https://arxiv.org/abs/2412.09945">CMIDD</a> is released. </div>
+    </li>
+    <li class="news-item">
+      <div class="news-date">Jun 2024</div>
+      <div class="news-content"><a href="https://arxiv.org/abs/2406.05704">H-PD</a> is released. </div>
     </li>
     <!-- <li class="news-item">
       <div class="news-date">Dec 2023</div>
