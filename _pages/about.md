@@ -50,46 +50,26 @@ My research interests lie in machine learning and computer vision, especially in
 <h1>🔥 News</h1>
 <div class="news-container">
   <ul>
-  <!-- <li class="news-item">
+  <li class="news-item">
+      <div class="news-date">Feb 2025</div>
+      <div class="news-content"><a href="https://github.com/ndhg1213/H-PD">H-PD</a> is accepted by CVPR2025. </div>
+    </li>
+    <li class="news-item">
       <div class="news-date">Jan 2025</div>
-      <div class="news-content"><a href="https://instantswap.github.io/">InstantSwap</a> is accepted by ICLR2025. </div>
+      <div class="news-content"><a href="https://github.com/ndhg1213/CMIDD">CMIDD</a> is accepted by ICLR2025. </div>
     </li>
-    <li class="news-item">
-      <div class="news-date">Dec 2024</div>
-      <div class="news-content"><a href="https://multibooth.github.io/">MultiBooth</a> is accepted by AAAI2025. </div>
-    </li>
-    <li class="news-item">
-      <div class="news-date">Dec 2024</div>
-      <div class="news-content">Excited to release <a href="https://instantswap.github.io/">InstantSwap</a>, an efficient customized concept swapping method across sharp shape differences. </div>
-    </li>
-    <li class="news-item">
-      <div class="news-date">Apr 2024</div>
-      <div class="news-content">Excited to release <a href="https://multibooth.github.io/">MultiBooth</a>, a novel and efficient multi-concept customization method. </div>
-    </li>
-    <li class="news-item">
+    <!-- <li class="news-item">
       <div class="news-date">Dec 2023</div>
       <div class="news-content">
         Started to cooperate with <a href="https://mayuelala.github.io/">Yue Ma</a>.
       </div>
-    </li>
-    <li class="news-item">
-      <div class="news-date">Aug 2023</div>
-      <div class="news-content">
-        Started to cooperate with <a href="http://kailigo.github.io/">Dr. Kai Li</a>.
-      </div>
-    </li>
-    <li class="news-item">
-      <div class="news-date">Jul 2023</div>
-      <div class="news-content">
-        Awarded as an outstanding camper in Tsinghua University Summer Camp.
-      </div>
-    </li>
-    <li class="news-item">
-      <div class="news-date">Apr 2023</div>
-      <div class="news-content">
-        Started internship in Professor Li Xiu’s research group.
-      </div>
     </li> -->
+    <li class="news-item">
+      <div class="news-date">Jul 2024</div>
+      <div class="news-content">
+        Started internship in Professor Bin Chen’s research group.
+      </div>
+    </li>
   </ul>
 </div>
 
@@ -116,10 +96,10 @@ Apr 202 &nbsp;&nbsp;&nbsp;&nbsp;Started internship in Professor Li Xiu’s resea
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\InstantSwap-title-case.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='..\images\DDPS-title-case.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-<font size=4 > <strong>InstantSwap: Fast Customized Concept Swapping across Sharp Shape Differences</strong></font>
+<font size=4 > <strong>Efficient Dataset Distillation via Diffusion-Driven Patch Selection for Improved Generalization</strong></font>
 
 **<u>Chenyang Zhu</u> $^{\*}$**, Kai Li $^{\*,\dagger}$, Yue Ma $^{\*}$,  Longxiang Tang, Chengyu Fang, Chubin Chen, Qifeng Chen, Xiu Li $^{\dagger}$
 
