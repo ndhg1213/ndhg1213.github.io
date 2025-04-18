@@ -77,7 +77,7 @@ My research interests lie in machine learning and computer vision, especially in
       </div>
     </li> -->
     <li class="news-item">
-      <div class="news-date">Jul 2024</div>
+      <div class="news-date">Jul 2023</div>
       <div class="news-content">
         Started internship in Professor Bin Chen’s research group.
       </div>
@@ -194,7 +194,7 @@ we introduce conditional mutual information (CMI) to assess the class-aware comp
 
 # 💻 Internships
 
-- _2024.07 - Now, Professor Bin Chen’s [research group](https://faculty.hitsz.edu.cn/BinChen) at Harbin Institute of Technology (Shenzhen).
+- _2023.07 - Now, Professor Bin Chen’s [research group](https://faculty.hitsz.edu.cn/BinChen) at Harbin Institute of Technology (Shenzhen).
 
 ---
 
