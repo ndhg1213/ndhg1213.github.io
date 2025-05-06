@@ -169,7 +169,7 @@ we propose a novel parameterization method dubbed Hierarchical Parameterization 
 <a href='https://github.com/ndhg1213/CMIDD'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
 <!-- ![GitHub Repo stars](https://img.shields.io/github/stars/chenyangzhu1/MultiBooth?style=social&link=https%3A%2F%2Fgithub.com%2Fchenyangzhu1%2FMultiBooth) -->
 
-we introduce conditional mutual information (CMI) to assess the class-aware complexity of a dataset and propose a novel method by minimizing CMI. 
+we introduce conditional mutual information (CMI) into dataset distillation to assess the class-aware complexity of a dataset and propose a novel method by minimizing CMI to constrain the complexity of synthetic datasets. 
 
 </div>
 </div>
